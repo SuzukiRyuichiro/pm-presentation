@@ -14,3 +14,16 @@ Thanks to the federal rate hit low, people now can afford to get mortgage, which
 
 Bear sterns saw potential in the mortgage market, and founded two hedge funds that would invest in sub prime mortgage securities.
 
+The three big mistakes of Bear Stearns' hedge fund managers were—failing to accurately predict how the subprime bond market would behave under extreme circumstances, having ample liquidity to cover debts, and overleveraging the funds.
+
+it was leverage that primarily precipitated their failure.
+
+# Answers to the criteria
+- Explain the company or investment fund, its investment activities, and the people involved.
+The Bear Stearns Companies was a NY based global investment bank founded in 1923
+- When and how did the failure occur, and what happened?
+- What aspects of good investment or risk management practice were violated?
+- How was the failure resolved?
+- Explain the lessons from this failure for portfolio managers, investors or clients, and regulators.
+- Lessons may relate to asset valuation, market characteristics such as liquidity, risk management (market, credit, operational, etc.), use of investment or economic theories and models, understanding major risk factors, diversification, investment strat- egy, fiduciary duty, disclosure of information, evaluation and questioning investment performance, detecting fraud and other problems, and more.
+- You are encouraged to include other relevant issues.
