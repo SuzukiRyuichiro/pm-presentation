@@ -22,6 +22,7 @@ it was leverage that primarily precipitated their failure.
 - Explain the company or investment fund, its investment activities, and the people involved.
 The Bear Stearns Companies was a NY based global investment bank founded in 1923
 - When and how did the failure occur, and what happened?
+The fall down of the Bear Stearns occured during the
 - What aspects of good investment or risk management practice were violated?
 - How was the failure resolved?
 - Explain the lessons from this failure for portfolio managers, investors or clients, and regulators.
