@@ -13,3 +13,11 @@ class: invert
 - It was a highly respected amongst the investment banks in the Wall st ([Chen](https://www.investopedia.com/terms/b/bear-stearns.asp), 2021)
 
 ---
+# CDO
+<img src="cdo.jpg" />
+Structure of how mortgages were turned into an investment tool for hedge funds
+
+---
+# Their practice
+- They purchased many CDOs that would pay an interest rate over the cost of borrowing
+- CDOs should be based on diverse pool of collaterals, because of the housing market bubble, many were

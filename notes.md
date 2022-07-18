@@ -19,12 +19,22 @@ The three big mistakes of Bear Stearns' hedge fund managers were—failing to ac
 it was leverage that primarily precipitated their failure.
 
 # Answers to the criteria
-- Explain the company or investment fund, its investment activities, and the people involved.
+> Explain the company or investment fund, its investment activities, and the people involved.
+
 The Bear Stearns Companies was a NY based global investment bank founded in 1923
-- When and how did the failure occur, and what happened?
-The fall down of the Bear Stearns occured during the
-- What aspects of good investment or risk management practice were violated?
-- How was the failure resolved?
-- Explain the lessons from this failure for portfolio managers, investors or clients, and regulators.
-- Lessons may relate to asset valuation, market characteristics such as liquidity, risk management (market, credit, operational, etc.), use of investment or economic theories and models, understanding major risk factors, diversification, investment strat- egy, fiduciary duty, disclosure of information, evaluation and questioning investment performance, detecting fraud and other problems, and more.
-- You are encouraged to include other relevant issues.
+> When and how did the failure occur, and what happened?
+
+The fall down of the Bear Stearns occured as one of the major event in the 2007 to 2008 global financial crisis, and they are one of the investment banks that went bankrupt as a result of it.
+
+> What aspects of good investment or risk management practice were violated?
+
+_The three big mistakes of Bear Stearns' hedge fund managers were—failing to accurately predict how the subprime bond market would behave under extreme circumstances, having ample liquidity to cover debts, and overleveraging the funds._ ([Kelly](https://www.investopedia.com/articles/07/bear-stearns-collapse.asp), 2021)
+
+> How was the failure resolved?
+
+> Explain the lessons from this failure for portfolio managers, investors or
+clients, and regulators.
+> Lessons may relate to asset valuation, market characteristics such as
+liquidity, risk management (market, credit, operational, etc.), use of investment or economic theories and models, understanding major risk factors, diversification, investment strat- egy, fiduciary duty, disclosure of information, evaluation and questioning investment performance, detecting fraud and other problems, and more.
+
+> You are encouraged to include other relevant issues.
