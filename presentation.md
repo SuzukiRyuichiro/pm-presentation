@@ -21,8 +21,10 @@ The fall down of the Bear Stearns occurred as one of the major events in the 200
 ---
 # When and what happened?
 ## MBS (mortgage backed securities) and CDO (collateralized debt obligation)
-<img src="cdo.jpg" height="55%" width="80%" />
+<img src="cdo.jpg" height="40%" width="60%" />
 <small style="color: grey;">Structure of how mortgages were turned into an investment tool for hedge funds</small>
+
+From [Kahn Academy](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities)
 
 When the housing market, which was soaring until then, started to plummet in April 2007. The investment bank rapidly realized that the true danger posed by these hedge fund techniques was far higher than initially thought.
 
@@ -45,3 +47,11 @@ When the housing market, which was soaring until then, started to plummet in Apr
 # A lesson learned
 
 One lesson from the collapse is that they should always hedge risks even for extreme cases. Also, they put put too much eggs in one basket. CDO would have been diverse but in reality, it was heavily mortgage based securities, which was not diverse enough.
+
+---
+
+# References
+- Chen, J. (November, 2021 30). Bear Stearns Definition. Investopedia. Retrieved July 17, 2022, from https://www.investopedia.com/terms/b/bear-stearns.asp
+- THe Investopedia. (2021, April 27). Dissecting the Bear Stearns Hedge Fund Collapse. Investopedia. Retrieved July 18, 2022, from https://www.investopedia.com/articles/07/bear-stearns-collapse.asp
+- Kahn Academy. (n.d.). Mortgage-backed security. https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/mort-backed-secs-tut/v/mortgage-back-security-overview
+- Tardi, C. (2022, March 8). Collateralized Debt Obligation (CDO) Definition. Investopedia. Retrieved July 18, 2022, from https://www.investopedia.com/terms/c/cdo.asp
